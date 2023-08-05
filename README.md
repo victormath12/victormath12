@@ -1,4 +1,4 @@
-### Hi there, I'm Victor Caetano 👋
+# Hi there, I'm Victor Caetano 👋
 
 <p>
   <em style="font-style: italic">
