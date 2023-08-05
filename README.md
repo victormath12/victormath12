@@ -8,6 +8,12 @@
     <br>
     🎓 Graduated in Software Development by <b>FTT</b> & Graduated in Digital Transformation by <b>California State University (CSUN)</b>.
     <br>
+    ✝️ Christian, part of @zionsaopaulo
+    <br>
+    ❤️ Husband, maried with @nataliavpaixao
+    <br>
+    🐶 Pixel's Tutor
+    <br>
     🇧🇷 Living in Brazil.
   </em>
 </p>
